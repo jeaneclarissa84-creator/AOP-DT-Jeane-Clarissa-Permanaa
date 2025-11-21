@@ -9,6 +9,13 @@ body {
 }
 
 
+.cursortigeryeah {
+  width: 10px;
+  height: 10px;
+  cursor: url('tigers.png'), auto;
+}
+
+
 .lorennn {
     display: flex;
     align-items: center;
@@ -173,4 +180,5 @@ audio {
     text-align: center;
 
 }
+
 
