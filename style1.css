@@ -6,7 +6,7 @@ body {
     height: 100vh;
     background: #ffd9d9;
     background: radial-gradient(circle, rgba(255, 217, 217, 1) 0%, rgba(115, 111, 112, 1) 100%);
-    cursor: url('tigers.png'), auto;
+    cursor: url('tigers.cur'), auto;
 }
 
 
@@ -174,6 +174,7 @@ audio {
     text-align: center;
 
 }
+
 
 
 
