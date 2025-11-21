@@ -143,6 +143,7 @@ body {
     opacity: 100%;
 }
 
+
 .anggota-2 p{
     text-align: left;
     margin-left: 20px;
@@ -213,6 +214,7 @@ body {
     flex-direction: column;
 }
 
+
 .buttons1 button{
     background-color: transparent;
     border: none;
@@ -222,6 +224,7 @@ body {
     cursor: pointer;
 }
 
+
 .buttons2 button{
     background-color: transparent;
     border: none;
@@ -230,6 +233,7 @@ body {
     font-weight: bold;
     cursor: pointer;
 }
+
 
 .buttons3 button{
     background-color: transparent;
@@ -241,21 +245,23 @@ body {
 }
 
 
-
 .buttons1:hover {
     color: rgb(0, 0, 0);
+    background-color: pink;
     transform: scale(1.08);
 }
 
 
 .buttons2:hover {
     color: rgb(0, 0, 0);
+    background-color: pink;
     transform: scale(1.08);
 }
 
 
 .buttons3:hover {
-    color: rgb(0, 0, 0);
+    color: pink;
+    background-color: pink;
     transform: scale(1.08);
 
 }
