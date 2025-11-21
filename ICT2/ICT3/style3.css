@@ -6,7 +6,7 @@ body {
     background: #ffffff;
     background: linear-gradient(to bottom, #1e90ff, #d9eaff);
     font-family: poppins, sans-serif;
-        cursor: url('tigers.png'), auto;
+    cursor: url('tigers.png'), auto;
 }
 
 
@@ -266,4 +266,5 @@ body {
     transform: scale(1.08);
 
 }
+
 
