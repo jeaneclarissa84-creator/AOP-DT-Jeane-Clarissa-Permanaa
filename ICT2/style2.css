@@ -81,8 +81,12 @@ body {
     color: rgb(255, 255, 255);
     font-weight: bold;
     cursor: pointer;
-    justify-content: center;
-    align-items: center;
+    transition: 0.3s;
 }
+
+button:hover {
+background-color: #054c94;
+}
+
 
 
