@@ -10,7 +10,7 @@ body {
     align-items: center;
     background-size: cover;
     background-position: center;
-    cursor: url('tiger.png'), auto;
+    cursor: url('tigers.png'), auto;
 }
 
 
@@ -88,6 +88,7 @@ body {
 button:hover {
 background-color: #054c94;
 }
+
 
 
 
