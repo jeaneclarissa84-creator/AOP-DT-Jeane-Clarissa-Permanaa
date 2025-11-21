@@ -1,3 +1,4 @@
+/*DT Kelompok Kandidat - Jeane mengerjakan bagian awal hingga nama-nama kandidat*/
 body {
     margin: 0;
     padding: 0;
@@ -164,6 +165,7 @@ body {
     text-align: left;
     margin-left: 20px;
 }
+/*DT Kelompok Kandidat - Jeane mengerjakan hingga bagian ini, namun dibantu Richardo terkait ukuran*/
 
 
 .buttonses {
@@ -255,4 +257,5 @@ body {
 .buttons3:hover {
     color: rgb(0, 0, 0);
     transform: scale(1.08);
+
 }
