@@ -12,7 +12,7 @@ body {
 .cursortigeryeah {
   width: 10px;
   height: 10px;
-  cursor: url('tigers.png'), auto;
+  cursor: url('images/tigers.png'), auto;
 }
 
 
@@ -180,5 +180,6 @@ audio {
     text-align: center;
 
 }
+
 
 
